@@ -10,7 +10,7 @@ Score tracking: Keep track of your score as you progress through the game.
 Game over conditions: The game ends if the snake collides with the boundaries or itself, with an option to restart and try again.
 Adjustable speed: Adjust the game's speed to your preference for a more relaxed or intense gaming experience.
 
-used modules :-
+USED MODULES :-
 
 import pygame
 
