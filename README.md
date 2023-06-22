@@ -12,6 +12,6 @@ Adjustable speed: Adjust the game's speed to your preference for a more relaxed 
 
 used modules :-
 
-pygame
-os
-random
+import pygame
+import os
+import random
